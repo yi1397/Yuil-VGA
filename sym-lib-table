@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name as6c4008_ram)(type Legacy)(uri ${KIPRJMOD}/as6c4008_ram.lib)(options "")(descr ""))
+)
