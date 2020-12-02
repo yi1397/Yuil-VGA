@@ -3,7 +3,7 @@
 
 ## 
 <div>
-  <img src="SYNC1.jpg" width="378" height=504/>
+  <img src="200916.png" width="378" height=504/>
   <img width=10/>
   <img src="SYNC2.jpg" width="378" height=504/>
 </div>
